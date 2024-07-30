@@ -1,0 +1,6 @@
+spring:
+ application:
+  name: helloclient
+  
+server: 
+ port: 8072
